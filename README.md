@@ -74,4 +74,3 @@ This opens an interactive web UI at `http://localhost:5173` where you can:
 - Modify the database by editing `src/seed_data.py` if needed
 - Configure model selection and API key in the Streamlit UI
 - Data is stored in the `data/` directory
-
