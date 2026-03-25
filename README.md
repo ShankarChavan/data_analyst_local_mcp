@@ -1,9 +1,6 @@
-# MCP Local Analyst
-![Demo](docs/demo.gif)
+# MCP Local Data Analyst
 
 Talk to your data smoothly 💬📊. An AI Data Analyst built with the Model Context Protocol (MCP), OpenAI API, and SQLite. Turn natural language into SQL queries. Includes a Dockerized Streamlit UI.
-
-📝 **[Read the full article on Medium](https://medium.com/gitconnected/chat-with-your-database-for-free-build-a-private-ai-agent-in-python-87bc0245ca8f)**
 
 ## Getting Started
 
